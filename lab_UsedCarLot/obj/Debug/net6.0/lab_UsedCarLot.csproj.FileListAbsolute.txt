@@ -1,0 +1,15 @@
+C:\gc_repos\lab_UsedCarLot\lab_UsedCarLot\lab_UsedCarLot\bin\Debug\net6.0\lab_UsedCarLot.exe
+C:\gc_repos\lab_UsedCarLot\lab_UsedCarLot\lab_UsedCarLot\bin\Debug\net6.0\lab_UsedCarLot.deps.json
+C:\gc_repos\lab_UsedCarLot\lab_UsedCarLot\lab_UsedCarLot\bin\Debug\net6.0\lab_UsedCarLot.runtimeconfig.json
+C:\gc_repos\lab_UsedCarLot\lab_UsedCarLot\lab_UsedCarLot\bin\Debug\net6.0\lab_UsedCarLot.dll
+C:\gc_repos\lab_UsedCarLot\lab_UsedCarLot\lab_UsedCarLot\bin\Debug\net6.0\ref\lab_UsedCarLot.dll
+C:\gc_repos\lab_UsedCarLot\lab_UsedCarLot\lab_UsedCarLot\bin\Debug\net6.0\lab_UsedCarLot.pdb
+C:\gc_repos\lab_UsedCarLot\lab_UsedCarLot\lab_UsedCarLot\obj\Debug\net6.0\lab_UsedCarLot.csproj.AssemblyReference.cache
+C:\gc_repos\lab_UsedCarLot\lab_UsedCarLot\lab_UsedCarLot\obj\Debug\net6.0\lab_UsedCarLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\gc_repos\lab_UsedCarLot\lab_UsedCarLot\lab_UsedCarLot\obj\Debug\net6.0\lab_UsedCarLot.AssemblyInfoInputs.cache
+C:\gc_repos\lab_UsedCarLot\lab_UsedCarLot\lab_UsedCarLot\obj\Debug\net6.0\lab_UsedCarLot.AssemblyInfo.cs
+C:\gc_repos\lab_UsedCarLot\lab_UsedCarLot\lab_UsedCarLot\obj\Debug\net6.0\lab_UsedCarLot.csproj.CoreCompileInputs.cache
+C:\gc_repos\lab_UsedCarLot\lab_UsedCarLot\lab_UsedCarLot\obj\Debug\net6.0\lab_UsedCarLot.dll
+C:\gc_repos\lab_UsedCarLot\lab_UsedCarLot\lab_UsedCarLot\obj\Debug\net6.0\ref\lab_UsedCarLot.dll
+C:\gc_repos\lab_UsedCarLot\lab_UsedCarLot\lab_UsedCarLot\obj\Debug\net6.0\lab_UsedCarLot.pdb
+C:\gc_repos\lab_UsedCarLot\lab_UsedCarLot\lab_UsedCarLot\obj\Debug\net6.0\lab_UsedCarLot.genruntimeconfig.cache
